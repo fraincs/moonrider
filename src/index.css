@@ -25,11 +25,11 @@ html {
 }
 
 #vrButton:hover {
-  background-position: 0 -50.5px;
+  background-position: 0 -50px;
 }
 
 #vrButton p {
-  bottom: 45px;
+  bottom: 30px;
   color: #FFF;
   font-size: 12px;
   font-family: monospace;
