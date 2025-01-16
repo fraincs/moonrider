@@ -38,33 +38,33 @@ COLORS.schemes = {
   },
 
   purple: {
-    name: 'Galactic Royal',
-    off: '#111',
-    primary: '#6A39B3',
-    primarybright: '#B685FF',
-    secondary: '#FAF239',
-    secondarybright: '#FFFC9E',
-    tertiary: '#50FFF2'
+    name: "Wes Anderson",
+    off: "#2C2C2C",
+    primary: "#D4A373",
+    primarybright: "#F1C27D",
+    secondary: "#6A4F39",
+    secondarybright: "#BCA98C",
+    tertiary: "#A0C9B3"
   },
 
   green: {
-    name: 'Space Joker',
-    off: '#111',
-    primary: '#779E37',
-    primarybright: '#C0FF59',
-    secondary: '#6A39B3',
-    secondarybright: '#B685FF',
-    tertiary: '#FAFAFA'
+    name: 'Tron',
+    off: '#0A0A0A',
+    primary: '#00BFFF',
+    primarybright: '#00FFFF',
+    secondary: '#8A2BE2',
+    secondarybright: '#9B30FF',
+    tertiary: '#1C1C1C',
   },
 
   yellow: {
-    name: 'Solar Flare',
-    off: '#111',
-    primary: '#C2C04C',
-    primarybright: '#FAF761',
-    secondary: '#E03A3E',
-    secondarybright: '#FA7578',
-    tertiary: '#278ECC'
+    name: "Halloween Flare",
+    off: "#111",
+    primary: "#F4A300",
+    primarybright: "#FF6F00",
+    secondary: "#8A2A2A",
+    secondarybright: "#D98282",
+    tertiary: "#6A4D3C"
   },
 
   red: {
