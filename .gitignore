@@ -49,3 +49,6 @@ dump.rdb
 #Idea Project Files
 idea/
 .idea/
+
+# PSD
+.psd
